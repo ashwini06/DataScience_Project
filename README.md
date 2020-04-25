@@ -1,2 +1,3 @@
-# github-example
-This repository is a demo of how to set up a github repository and properly setting it up
+# Applied DataScience -Capstone project
+This repository is a containing the assignments of Applied Datascience -Capstone project. 
+This course is a part of Coursera, IBM Datascience Professional Certification.
